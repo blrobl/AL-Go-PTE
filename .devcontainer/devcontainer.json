@@ -1,0 +1,4 @@
+{
+    "postCreateCommand": "powershell .AL-Go/localDevEnv.ps1"
+  }
+  
