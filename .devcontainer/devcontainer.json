@@ -1,4 +1,4 @@
 {
-    "postStartCommand": "powershell .AL-Go/localDevEnv.ps1"
-  }
+    "postStartCommand": "bash /hello.sh"
+}
   
